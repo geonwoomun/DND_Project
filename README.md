@@ -5,11 +5,17 @@
 
 ### 개발환경
 IDE : VS CODE
+
 프론트 : REACT
+
 백엔드 : EXPRESS
+
 DB : AWS RDS mariaDB
+
 서버 : AWS EC2 Ubuntu
+
 사진파일 저장소 : AWS S3
+
 도메인 : freenom, AWS ROUTE 53
 
 
