@@ -1,6 +1,6 @@
 # DND_Project
 
-[DND 사이트](dnd.ac)
+[DND 사이트](http://dnd.ac)
 
 ### 기간
 2019.07.13 ~ 2019.09.22
