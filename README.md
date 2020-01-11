@@ -1,7 +1,28 @@
 # DND_Project
-부산 IT연합동아리 DND 3팀 POLO를 하고 느낀점
 
 DND 사이트 : dnd.ac
+
+### 기간
+2019.07.13 ~ 2019.09.22
+
+### 개발환경
+IDE : VS CODE
+
+프론트 : REACT
+
+백엔드 : EXPRESS
+
+DB : AWS RDS mariaDB
+
+서버 : AWS EC2 Ubuntu
+
+사진파일 저장소 : AWS S3
+
+도메인 : freenom, AWS ROUTE 53
+
+
+### 부산 IT연합동아리 DND 3팀 POLO를 하고 느낀점
+
 
 DND 프로젝트는 2019년 7월 13일부터 9월 22일까지 거의 12주 동안 진행한 프로젝트이다.
 페이스북에서 부산지역 IT연합동아리를 모집한다는 글을 보고 학교 과동아리인 DATAPIA 동아리원 5명이서 같이
